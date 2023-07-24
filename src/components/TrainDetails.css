@@ -1,0 +1,17 @@
+h3 {
+  padding: 10px;
+}
+
+p {
+  background-color: #7158cc;
+  padding: 10px;
+}
+p:hover {
+  background-color: #6851ba;
+}
+.train {
+  display: block;
+  background-color: #7663ba;
+  margin: 10px 200px 10px 200px;
+  padding: 5px;
+}

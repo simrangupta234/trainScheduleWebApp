@@ -1,0 +1,15 @@
+#grad {
+  background-image: linear-gradient(180deg, #261d40, #5f4daa);
+  box-shadow: 10px 10px 8px 10px #4d3c81;
+}
+
+.App {
+  background-color: #59469c;
+}
+
+.App-title {
+  text-align: center;
+  padding: 15px;
+  font-size: 2rem;
+  font-weight: bold;
+}
